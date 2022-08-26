@@ -31,6 +31,11 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
+:hearts: Yae Miko 
+<br><br>
+![thumb-1920-1245485](https://user-images.githubusercontent.com/82693758/186927650-5c561991-7096-48f2-9730-8a4402c3718b.jpg)
+<br>
+Artist: 牧野原上
 
 <!--
 **az-ka/az-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
